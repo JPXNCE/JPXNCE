@@ -9,7 +9,6 @@
 
 ## 📌 Información Personal
 - **Nombre:** Jhon Ponce
-- **Alias/Username:** JPXNCE  
 - **Ubicación:** Guayaquil, Ecuador  
 - **Educación:** Estudiante avanzado en Logística y Transporte – ESPOL  
 - **Email:** jholepon@espol.edu.ec 
@@ -35,15 +34,7 @@
 
 ## 🚀 Proyectos Destacados
 
-### 📍 Proyecto 1: HFVRP Optimizer
-- **Descripción:** Implementación de metaheurísticas (2-Opt, Simulated Annealing) para resolver problemas de ruteo de vehículos heterogéneos.  
-- **Tech stack:** Python, Wolfram Mathematica, Power BI  
-- **Demo:** [Ver presentación](https://example.com/demo1)  
-- **Código:** [Repositorio](https://github.com/JPXNCE/HFVRP-Optimizer)  
-- **Características principales:**  
-  - Algoritmos comparados con *best-known solutions*.  
-  - Visualización de rutas en tablas con mini-gráficos embebidos.  
-  - Reportes académicos claros y reproducibles.  
+### 📍 Proyecto 1:   
 
 --- 
 ## 🎯 Objetivos 2026
