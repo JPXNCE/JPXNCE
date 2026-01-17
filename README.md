@@ -30,12 +30,6 @@
 - **Bases de datos:** MySQL, Access
 
 
----
-
-## 🚀 Proyectos Destacados
-
-### 📍 Proyecto 1:   
-
 --- 
 ## 🎯 Objetivos 2026
 - Graduarme como **Ingeniero en Logística y Transporte** en ESPOL.  
