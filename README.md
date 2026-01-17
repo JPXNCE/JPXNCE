@@ -48,9 +48,4 @@
   ## 📊 Estadísticas de GitHub 
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JPXNCE&show_icons=true&theme=tokyonight) 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JPXNCE&layout=compact&theme=tokyonight) 
-  --- 
-  ## ✨ Conecta conmigo 
-  📫 **Email:** jhonponcepincay@outlook.com 
-  💼 **LinkedIn:** [(https://linkedin.com/in/jhonponce](https://www.linkedin.com/in/jhon-lenin-ponce-pincay-9894b6221/)) 
-  🌐 **GitHub:** [github.com/JPXNCE](https://github.com/JPXNCE) 
-  ---
+
